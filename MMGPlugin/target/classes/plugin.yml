@@ -1,0 +1,6 @@
+name: MMGPlugin
+version: '1.0'
+main: me.degeron.mmgplugin.Main
+api-version: 1.19
+commands:
+  mmg:

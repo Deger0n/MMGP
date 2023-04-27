@@ -1,0 +1,13 @@
+me\degeron\mmgplugin\util\ItemBuilder.class
+me\degeron\mmgplugin\game\Game.class
+me\degeron\mmgplugin\game\GameStatus.class
+me\degeron\mmgplugin\util\DecorCreator.class
+me\degeron\mmgplugin\command\GameCMD.class
+me\degeron\mmgplugin\event\MenuEvents.class
+me\degeron\mmgplugin\game\Game$1.class
+me\degeron\mmgplugin\menu\Menu.class
+me\degeron\mmgplugin\menu\SlotTypeMenu.class
+me\degeron\mmgplugin\Main.class
+me\degeron\mmgplugin\game\SlotTypeGame.class
+me\degeron\mmgplugin\event\GameEvents.class
+me\degeron\mmgplugin\game\Game$2.class
